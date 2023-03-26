@@ -1,0 +1,1 @@
+https://bannerxe.fau.edu/StudentRegistrationSsb/ssb/courseSearchResults/courseSearchResults?txt_term=202308&startDatepicker=&endDatepicker=&uniqueSessionId=hsokn1679799878546&pageOffset=0&pageMaxSize=10&sortColumn=subjectDescription&sortDirection=asc
