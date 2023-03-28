@@ -7,4 +7,7 @@ soup = BeautifulSoup(response.content, 'html.parser')
 
 cells = soup.select("td")
 text = soup.get_text()
-print(text)
+
+
+with open('data.txt', 'w') as data:
+    data.write(text)
